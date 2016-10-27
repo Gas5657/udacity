@@ -1,0 +1,35 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+1.你学到了哪些技能？
+
+--> <a> <strong> <em> <h1>~<h4> <img> <hr> <sub> <sup> <del> <p>
+
+2.哪些内容比较简单？
+
+--> <a> <strong> <em> <h1>~<h4> <img> <hr> <sub> <sup> <del> <p>
+
+3.哪些内容比较复杂？
+
+--> 没有
+
+4.你遇到了哪些问题？
+
+--> <em> 和 <strong>分不清
+
+	<strong>是语义化  起加粗效果
+	<em>强调   起斜体效果
+	
+--> <sub> 和 <sup>分不清
+
+	<sup>上标  <sup>下标
+5.你用了什么解决策略？
+
+--> 查资料 思考
